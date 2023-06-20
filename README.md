@@ -1,6 +1,6 @@
 # Welcome to my profile! 🌟
 
-My name is Gleb Tcivie and I am a B.Sc. student in Software Engineering at SCE College of Engineering in my 3rd year 🎓. I am currently working as a Connectivity Engineer at AccessFintech, where I have been honing my skills in network protocols, Linux and other technologies.
+My name is Gleb Tcivie and I am a B.Sc. student in Software Engineering at SCE College of Engineering in my 4th year 🎓. I am currently working as a Connectivity Engineer at AccessFintech, where I have been honing my skills in network protocols, Linux and other technologies.
 I have a strong passion for coding and always eager to learn new things.
 #### I code in
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

@@ -1,6 +1,6 @@
 # Welcome to my profile! 🌟
 
-My name is Gleb Tcivie and I am a B.Sc. student in Software Engineering at SCE College of Engineering in my 4th year 🎓. I am currently working as a Backedn Developer at AccessFintech, where I have been honing my skills in Golang, Scala and Java (And a bit of React).
+My name is **Gleb Tcivie** and I am a B.Sc. **student in Software Engineering at SCE College of Engineering in my 4th year 🎓**. I am currently working as a **Backend Developer at AccessFintech**, where I have been honing my skills in Golang, Scala and Java (And a bit of React).
 I have a strong passion for coding and always eager to learn new things.
 #### I code in
 ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)

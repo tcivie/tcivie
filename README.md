@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleb-t/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=safari&logoColor=white)](https://tcivie.com)
 
-## 🎓 BSc Software Engineer | 🌐 Backend Developer @ AccessFintech
+## 🎓 BSc Software Engineering | 🌐 Backend Developer @ AccessFintech
 
 ### 🛠️ Tech Stack
 

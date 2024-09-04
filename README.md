@@ -3,9 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleb-t/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=safari&logoColor=white)](https://tcivie.com)
 
-## 💻 Software Engineer | 🎓 CS Student | 🌐 Backend Developer
-
-Currently working as a Backend Developer at AccessFintech while completing my B.Sc. in Software Engineering at SCE College of Engineering.
+## 🎓 BSc Software Engineer | 🌐 Backend Developer @ AccessFintech
 
 ### 🛠️ Tech Stack
 

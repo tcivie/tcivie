@@ -10,6 +10,7 @@ BSc Software Engineering (SCE College of Engineering) | MSc Software Engineering
 
 **What I'm up to:**
 - Building scalable backend services
+- Exploring Domain Specific Languages (DSL) with JetBrains MPS and Xtext
 - Tinkering with mesh networks in the Meshtastic Israel community
 - Reading way too many technical books
 
@@ -19,7 +20,7 @@ BSc Software Engineering (SCE College of Engineering) | MSc Software Engineering
 
 - **Traffic Light RL** ⚡︎ My award-winning Bachelor's project used Reinforcement Learning to optimize traffic flow. Managed to squeeze out a 3% improvement, which sounds small until you scale it city-wide.
 
-Currently exploring distributed systems, mesh networking, and that sweet spot where ML meets infrastructure. Always curious about what happens when you push systems to their limits.
+Currently exploring distributed systems, mesh networking, Domain Specific Languages, and that sweet spot where ML meets infrastructure. Always curious about what happens when you push systems to their limits.
 
 ---
 

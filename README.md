@@ -17,6 +17,8 @@ BSc Software Engineering (SCE College of Engineering) | MSc Software Engineering
 
 **Recent projects worth mentioning:**
 
+- **[PairScreen](https://pairscreen.cc)** ✎ A no-bloat, really lightweight peer-to-peer screen sharing app for Mac. Voice, screens and ink travel straight between machines — no cloud in the middle.
+
 - **Meshtastic Monitoring** ☁︎ Set up MQTT servers and custom exporters for our local mesh network. Because someone needs to keep an eye on those radio waves.
 
 - **Traffic Light RL** ⚡︎ My award-winning Bachelor's project used Reinforcement Learning to optimize traffic flow. Managed to squeeze out a 3% improvement, which sounds small until you scale it city-wide.

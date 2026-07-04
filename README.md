@@ -1,6 +1,6 @@
 # Hey there ☞
 
-I'm **Gleb**, a Senior Backend Developer working in the CaaS team at AccessFintech. I write code, solve problems, and occasionally break things (hopefully in development).
+I'm **Gleb**, a Senior Software Engineer working in the CaaS team at AccessFintech. I write code, solve problems, and occasionally break things (hopefully in development).
 
 BSc Software Engineering (SCE College of Engineering) | MSc Software Engineering at TSI {...}
 
